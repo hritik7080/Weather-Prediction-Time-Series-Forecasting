@@ -6,8 +6,9 @@ INT404 Artificial Intelligence Project
 #### Jagmeet Singh Saini Roll No. 36
 #### Siddharth Chakravarty Roll No. 34
 
-# Prequisites:
+# Instructions:
 - Make an account on Kaggle
 - Get your kaggle.json file from their.
 - Paste the kaggle username and key in the first code block.
-- Open the notebook on Google Colab
+- Open the notebook on Google Colab and execute all the blocks.
+- Do not worry about the dataset it directly import the dataset from Kaggle.
