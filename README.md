@@ -11,4 +11,4 @@ INT404 Artificial Intelligence Project
 - Get your kaggle.json file from their.
 - Paste the kaggle username and key in the first code block.
 - Open the notebook on Google Colab and execute all the blocks.
-- Do not worry about the dataset it directly import the dataset from Kaggle.
+- Don't worry about the dataset, it directly imports the dataset from Kaggle.
