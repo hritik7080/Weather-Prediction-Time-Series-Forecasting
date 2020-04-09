@@ -10,3 +10,4 @@ INT404 Artificial Intelligence Project
 - Make an account on Kaggle
 - Get your kaggle.json file from their.
 - Paste the kaggle username and key in the first code block.
+- Open the notebook on Google Colab
